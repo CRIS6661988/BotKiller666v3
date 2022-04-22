@@ -56,10 +56,10 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = 'The Shadow Brokers - Bot'
+global.author = 'The BotKiller - 666'
 
 
-global.wm = '©The Shadow Brokers - Bot'
+global.wm = '©The BotKiller - 666'
 global.wait = '*Espere un momento..*'
 
 
